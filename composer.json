@@ -1,0 +1,31 @@
+{
+  "name": "iumio/fcm",
+  "license": "MIT",
+  "type": "library",
+  "description": "FSM (Framework Service Manager) is a web tools to get some information about framework instance",
+  "keywords": ["php-framework", "iumio-framework", "core", "mvc", "php", "php7", "components", "iumio"],
+  "homepage": "https://framework.iumio.com",
+  "authors": [
+    {
+      "name": "Dany Rafina",
+      "email": "dany.rafina@iumio.com",
+      "homepage": "https://www.linkedin.com/in/danyrafina/",
+      "role": "iumio Framework Architect / iumio Founder "
+    },
+  ],
+  "autoload": {
+    "psr-4": {
+      "FServiceApp\\": ""
+    }
+  },
+  "require": {
+    "php": ">=7.2",
+    "php-di/php-di": "6.*",
+    "php-di/invoker": "2.*",
+    "doctrine/annotations": "1.6.*"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "7.*",
+    "codacy/coverage": "dev-master"
+  }
+}

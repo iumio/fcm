@@ -1,0 +1,8 @@
+{
+    "name":"FServiceApp",
+    "class":"\\FServiceApp\\FServiceApp",
+    "base_url":"_fservice",
+    "status":"on",
+    "status_dev":"on",
+    "status_prod":"on"
+}
