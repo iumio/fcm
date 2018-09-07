@@ -1,5 +1,5 @@
 {
-  "name": "iumio/fcm",
+  "name": "iumio/fsm",
   "license": "MIT",
   "type": "library",
   "description": "FSM (Framework Service Manager) is a web tools to get some information about framework instance",
