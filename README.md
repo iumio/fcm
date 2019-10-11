@@ -15,8 +15,8 @@ FSM (Framework Service Manager) is a web tools to get some information about fra
 Installation
 ------------
 
-* [Install iumio Framework][2] with composer (see
-  [requirements details][3]).
+* [Install iumio Framework][2] with composer (see [requirements details][3]).
+
 
 Documentation
 -------------
