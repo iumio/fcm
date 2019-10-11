@@ -1,8 +1,18 @@
 {
-    "name":"FServiceApp",
-    "class":"\\FServiceApp\\FServiceApp",
-    "base_url":"_fservice",
+    "visibility_dev": null,
+    "visibility_prod": null,
+    "hosts_allowed_dev": null,
+    "hosts_denied_dev": null,
+    "hosts_allowed_prod": null,
+    "hosts_denied_prod": null,
+    "locale_enabled": false,
+    "trans_type": null,
+    "prefer_locale": null,
+    "namespace": "FrameworkServiceApp",
+    "type": "components",
     "status":"on",
     "status_dev":"on",
-    "status_prod":"on"
+    "status_prod":"off",
+    "path": "/_fservice",
+    "renderer": "none"
 }
